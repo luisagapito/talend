@@ -24,4 +24,19 @@
     "type" : "job"
   },
   "relatedItems" : [ ]
+}, {
+  "baseItem" : {
+    "id" : "_U8NZsOb5Ee2J141lkj2Sdw",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "_a32uMOb4Ee2J141lkj2Sdw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_a32uMOb4Ee2J141lkj2Sdw - directors_schema",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
