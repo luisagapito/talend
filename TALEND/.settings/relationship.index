@@ -22,6 +22,25 @@
   "relatedItems" : [ ]
 }, {
   "baseItem" : {
+    "id" : "_cfc3wObwEe2O0YxTHH3wcw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "TALEND:_FdF1wOb4Ee2QHO9U7QFweg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_vGiqgOb3Ee2QHO9U7QFweg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_vGiqgOb3Ee2QHO9U7QFweg - fds_onpremises1",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_sjmIcOb-Ee2J141lkj2Sdw",
     "version" : "0.1",
     "type" : "job"
