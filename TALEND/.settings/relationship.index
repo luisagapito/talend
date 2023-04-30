@@ -5,17 +5,13 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_ufWSMOb4Ee2J141lkj2Sdw",
+    "id" : "_U8NZsOb5Ee2J141lkj2Sdw",
     "version" : "Latest",
     "type" : "joblet"
   }, {
-    "id" : "_a32uMOb4Ee2J141lkj2Sdw",
+    "id" : "_ufWSMOb4Ee2J141lkj2Sdw",
     "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_a32uMOb4Ee2J141lkj2Sdw - directors_schema",
-    "version" : "Latest",
-    "type" : "schema"
+    "type" : "joblet"
   } ]
 }, {
   "baseItem" : {
