@@ -131,4 +131,15 @@
     "version" : "Latest",
     "type" : "joblet"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_vRNT0CLLEe6Ci4HvWcv44w",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "_ykPJAInrEeil5aKDSgFuTw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
